@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prabhupavan
+- 👋 Hi, I’m @pavanprabhu
 - 👀 I’m interested in science and programming 
 - 🌱 I’m currently learning about Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on _
