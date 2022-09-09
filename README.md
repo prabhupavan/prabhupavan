@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavanprabhu
 - 👀 I’m interested in science and programming 
-- 🌱 I’m currently learning about Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning about Machine Learning and Artificial Intelligence i.e, Data Science
 - 💞️ I’m looking to collaborate on _
 - 📫 pavanprabhu.mail@gmail.com
 
